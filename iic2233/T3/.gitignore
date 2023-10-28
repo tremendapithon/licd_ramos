@@ -1,0 +1,11 @@
+__pycache__/
+.vscode
+*$py.class
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+sprites/
+sounds/
+mapas/
+Enunciado.pdf
+Sprites
+p1.py

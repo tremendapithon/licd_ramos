@@ -1,0 +1,11 @@
+__pycache__/
+.vscode
+*$py.class
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+Enunciado.pdf
+arenas.csv
+consumibles.csv
+excavadores.csv
+tesoros.csv
+
