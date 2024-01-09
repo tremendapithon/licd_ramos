@@ -1,0 +1,22 @@
+{
+    "HOST": "localhost",
+    "NUMERO_JUGADORES": 4,
+    "N_PONDERADOR": 93,
+    "VALOR_PASO": 3,
+    "ID_JUGADOR" : [
+    "IIC2413",
+    "IIC2233",
+    "IIC2133",
+    "IIC1253",
+    "MAT0007",
+    "IMT2210",
+    "IIC1103"
+    ],
+    "ACCIONES_USUARIO" :[
+        "Anunciar",
+        "Pasar",
+        "Poder",
+        "Dados",
+        "Dudar"
+    ]
+}
