@@ -1,0 +1,5 @@
+El presente diagrama de clases contiene todas las clases implementadas en la tarea y funciona de la siguiente forma:
+
+En el sector superior observamos todas las superclases y de ese punto se crean las subclases que heredan de la superclase con el fin de crear el objetos. 
+Ademas existe una clase torneo que depende unicamente de que la clase MenuJuego, ya que esta clase se encarga de recibir los objectos de Excavadores, Arenas e items, instanciarlos e introducirlos en la clase del Torneo. Cabe considerar que la clase MenuJuego crea las instancias a estas clases mediante la implementacion de diversas funciones, y ademas la clase MenuJuego se encarga de llamar todos los metodos de la clase Torneo.
+
